@@ -1,0 +1,9 @@
+c:\users\laptopmsi\documents\visual studio 2015\Projects\ConsoleApplication16\ConsoleApplication16\bin\Debug\ConsoleApplication16.exe.config
+c:\users\laptopmsi\documents\visual studio 2015\Projects\ConsoleApplication16\ConsoleApplication16\bin\Debug\ConsoleApplication16.exe
+c:\users\laptopmsi\documents\visual studio 2015\Projects\ConsoleApplication16\ConsoleApplication16\bin\Debug\ConsoleApplication16.pdb
+c:\users\laptopmsi\documents\visual studio 2015\Projects\ConsoleApplication16\ConsoleApplication16\obj\Debug\ConsoleApplication16.exe
+c:\users\laptopmsi\documents\visual studio 2015\Projects\ConsoleApplication16\ConsoleApplication16\obj\Debug\ConsoleApplication16.pdb
+C:\Users\LaptopMSI\Documents\Visual Studio 2015\Projects\ConsoleApplication16\ConsoleApplication16\obj\Debug\ConsoleApplication16.csprojResolveAssemblyReference.cache
+C:\Users\LaptopMSI\Desktop\Polimorfizm\ConsoleApplication16\bin\Debug\ConsoleApplication16.exe.config
+C:\Users\LaptopMSI\Desktop\Polimorfizm\ConsoleApplication16\obj\Debug\ConsoleApplication16.exe
+C:\Users\LaptopMSI\Desktop\Polimorfizm\ConsoleApplication16\obj\Debug\ConsoleApplication16.pdb
